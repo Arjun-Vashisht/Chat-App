@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2&display=swap');
+.image{
+    display: flex;
+    flex-direction: column;
+    margin-right: 8%;
+}
+
+img{
+    height: 5rem;
+    width: 5rem;
+    border-radius: 4rem;
+}
+
+perName{
+  font-family: 'Baloo Da 2', cursive;
+}
